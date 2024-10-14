@@ -1,0 +1,7 @@
+{
+  "name": "toastBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
